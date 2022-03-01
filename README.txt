@@ -1,7 +1,7 @@
 Guidlines for repo :
 
 Place main_efood.R and auxiliary_efood.R should in the same directory.
-Execute code setting as working directory the source file location with the csv file there as well.
+Execute code setting as working directory the source file location with the source data csv file there as well.
 
 Dependencies :
 install.packages(data.table)
