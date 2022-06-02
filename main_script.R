@@ -14,7 +14,7 @@ library(ggplot2);library(scales);library(DT);library(gridExtra)
 # ML & Statistical modeling 
 library(e1071);library(caret);library(klaR);library(MASS)
 # User defined functions
-source('auxiliary_efood.R')
+source('auxiliary_functions.R')
 
 
 ##### load data with Greek characters encoding ##### 
